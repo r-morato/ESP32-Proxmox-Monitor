@@ -44,4 +44,3 @@ Used to display system status in black, white, and red/yellow.
 | DIN (MOSI)       | GPIO 23           |
 | CLK (SCK)        | GPIO 18           |
 | CS               | GPIO 5            |
-|
