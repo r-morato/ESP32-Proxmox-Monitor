@@ -66,6 +66,11 @@ An ESP32-based real-time status monitor for your Proxmox node and LXCs using a l
 
 ---
 
+## Images
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/bc8c48d3-f385-471e-8ea8-944a8f99c639" /><img width="387" alt="image" src="https://github.com/user-attachments/assets/1e4abc7f-0309-4970-aa5c-2c2231e549c5" />
+<img width="601" alt="Screenshot 2025-06-14 at 20 53 09" src="https://github.com/user-attachments/assets/0935f6c9-9776-4837-a7ab-6589685505bd" />
+
+---
 ## Troubleshooting
 
 - Ensure your Proxmox API token has the necessary permissions for node status and LXC info.  
