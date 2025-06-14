@@ -19,13 +19,11 @@ An ESP32-based real-time status monitor for your Proxmox node and LXCs using a l
 
 - **ESP32 Dev Board**  
 - **GxEPD2 2.9" 3-color E-Ink Display (Model: GxEPD2_290_C90c)**  
-- Connecting pins (example):
+- Connecting pins:
   - CS: GPIO 5  
   - DC: GPIO 21  
   - RST: GPIO 2  
   - BUSY: GPIO 15  
-
-*Power supply and wiring details should match your specific hardware setup.*
 
 ---
 
